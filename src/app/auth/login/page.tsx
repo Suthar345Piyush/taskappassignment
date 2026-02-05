@@ -59,8 +59,11 @@ export default function LoginPage() {
      return (
 
       <div className="flex items-center justify-center min-h-screen px-4">
+
       <div className="w-full max-w-md">
+
         <div className="bg-white rounded-lg shadow-md p-8">
+
           <h1 className="text-2xl font-bold text-center mb-6 text-black">Login</h1>
           
           {error && (
@@ -75,6 +78,7 @@ export default function LoginPage() {
             <div>
 
               <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-1">
+                
                 Email
               </label>
 
