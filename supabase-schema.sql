@@ -16,7 +16,7 @@ CREATE TABLE tasks (
 
 -- enabling row level security  
 
-ALTER TABLE tasks ENABLE ROW LEVEL SECURITY 
+ALTER TABLE tasks ENABLE ROW LEVEL SECURITY;
 
 
 
