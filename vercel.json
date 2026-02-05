@@ -1,6 +1,6 @@
 {
-  "buildCommand": "npm run build",
-  "installCommand": "npm run install",
+  "buildCommand": "npm  build",
+  "installCommand": "npm  install",
   "framework": "nextjs",
   "regions": [
     "iad1"
