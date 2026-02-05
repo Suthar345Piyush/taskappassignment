@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-- **Framework**: Nextjs 16 (React) - Pages Router
+- **Framework**: Nextjs 16 (React) - App Router
 - **Language**: TypeScript
 - **Database**: Supabase DB
 - **Styling**: Tailwind CSS
