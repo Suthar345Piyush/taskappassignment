@@ -11,6 +11,9 @@ const inter = Inter({
 
 export const metadata : Metadata = {
     title : 'Task Manager',
+    icons : {
+       icon : '/favicon.svg'
+    },
     description : 'Manage your tasks efficiently with our modern task management app',
     keywords : ['tasks' , 'todo' , 'productivity' , 'task manager'],
 };
