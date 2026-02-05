@@ -56,4 +56,10 @@ taskapp/
 
 
 
+## Database Schema
+<img width="851" height="568" alt="image" src="https://github.com/user-attachments/assets/ae6611a8-0f8c-42da-97e5-7fa268988c55" />
+
+
+
+
 
